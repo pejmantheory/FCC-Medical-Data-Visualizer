@@ -1,8 +1,8 @@
 # Medical Data Visualizer
+Create a chart similar to examples/Figure_1.png, where we show the counts of good and bad outcomes for the cholesterol, gluc, alco, active, and smoke variables for patients with cardio=1 and cardio=0 in different panels.
+
 ![Figure_2](https://github.com/pejmantheory/FCC-Medical-Data-Visualizer/assets/81389644/65e7423e-8ff5-4e92-a7af-31dc0647bfc4)
 ![Figure_1](https://github.com/pejmantheory/FCC-Medical-Data-Visualizer/assets/81389644/6a47fb17-ab49-4d55-9532-ceb70ffaed6c)
-Tasks
-Create a chart similar to examples/Figure_1.png, where we show the counts of good and bad outcomes for the cholesterol, gluc, alco, active, and smoke variables for patients with cardio=1 and cardio=0 in different panels.
 
 Use the data to complete the following tasks in medical_data_visualizer.py:
 
